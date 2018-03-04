@@ -1,4 +1,4 @@
-# This repository was created with the sole purpose of listing common debugging steps for later reference.
+*This repository was created with the sole purpose of listing common debugging steps for later reference.*
 
 ---
 
