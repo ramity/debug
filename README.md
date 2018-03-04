@@ -2,9 +2,11 @@
 
 ---
 
-# Problem: Volumes do not show content/are empty
+## Problem:
 
-# Solution #1
+Volumes do not show content/are empty
+
+## Solution #1
 
 1. Restart docker service
 2. Restart containers
