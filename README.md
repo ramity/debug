@@ -10,6 +10,7 @@ Volumes do not show content/are empty
 
 1. Restart docker service
 2. Restart container(s) in question
- - If problem persists, a fresh build may be required, sadly.
+3. Validate the problem has been resolved
+4. If the problem persists, a fresh build may be required to the container(s) in question.
 
 ---
